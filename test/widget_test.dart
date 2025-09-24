@@ -7,6 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:simple_home_navigation_task_2/app.dart';
 
 import 'package:simple_home_navigation_task_2/main.dart';
 
